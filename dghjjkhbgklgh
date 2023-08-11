@@ -12,8 +12,7 @@
 <body>
   
   <p>
-    Our HTML editor updates the webview automatically in real-time as you write code.
-  </p>
+    
   <script src="script.js"></script>
 </body>
 
